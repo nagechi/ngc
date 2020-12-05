@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+body {
+  	font-family: 'Poppins', sans-serif;
+  	background-color: white;
+}
+	
+.center {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: auto;
+	text-align: center;
+}
+
+.break-side {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+/* Bar Navigasi */
+#navigasi {
+	background-color: white;
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: auto;
+}
+
+.form-cari {
+	border-radius: 0.25rem;
+	width: auto;
+	height: 35px;
+}
+
+/* Header Banner */
+header {
+	background-color: #000;
+	width: auto;
+}
+
+#banner {
+	width: auto;
+	height: auto;
+}
+
+/* Kategori barang */
+#kategori {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15%;
+	background-color: #000;
+	color: white;
+}
+
+.kat-break {
+	margin-right: 3%;
+}
+
+/* Preview Produk */
+#produk {
+	margin-bottom: 10%;
+}
+
+/* Official Brand */
+#brand {
+	margin-top: 250px;
+	margin-bottom: 100px;	
+}
+
+/* Testimoni */
+#testimoni {
+	margin-top: 250px;
+	margin-bottom: 100px;
+}
+	
+/* Kontak */
+#kontak {
+	margin-top: 250px;
+	margin-bottom: 100px;
+}
+
+#kontakid {
+	padding-left: 150px;
+	text-align: left;
+}
+	
+/* Tentang */
+#tentang {
+	margin-top: 250px;
+}
+
+.tentang-link {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    display: flex;
+    color: #000;
+	border-radius: 50%; 
+}
+
+/* Footer */
+footer {
+	background-color: #666;
+	color: white;
+	width: 100%;
+	padding-bottom: 25px;
+}
+
+.footer-img{
+	margin-top: 50px;
+}
+
+.footer-link {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 50%;
+}
+
+/* Bootstrap Customize */
+a {
+	color: #000;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.btn-link {
+	color: #000;
+}
+
+h2, .h2 {
+	font-size: 150%;
+}
+
+h5, .h5 {
+	font-size: 100%;
+}
+
+hr {
+	width: 30%;	
+}
+
+.form-control {
+	max-width: 80%;
+}
+
+.btn-secondary {
+	background-color: #000;
+	border-color: #000;
+}

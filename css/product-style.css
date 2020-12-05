@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+@media (min-width: 700px) {
+	
+body {
+  	font-family: 'Poppins', sans-serif;
+  	background-color: white;
+	margin: 0;
+}
+
+main {
+	margin: 10%;
+}
+
+hr {
+	width: 500px;	
+}
+	
+.center {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: auto;
+	text-align: center;
+}
+	
+/* Bar Navigasi */
+#navigasi {
+	background-color: white;
+}
+
+.nav-link {
+	margin-right: 25px;
+}
+
+/* Kategori */
+#kategori {
+	margin-top: 12%;
+}
+
+/* Header Banner */
+header {
+	display: block;
+	text-align: center;
+	margin: 10%;
+}
+
+/* List Produk */
+
+
+/* Footer */
+footer {
+	background-color: #666;
+	color: white;
+	width: 100%;
+	padding-bottom: 25px;
+}
+
+.footer-img{
+	margin-top: 50px;
+}
+
+.footer-link {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 50%;
+}
+
+}
